@@ -6,4 +6,4 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=ahmetguldas) [![Github](https://img.shields.io/github/followers/ahmetguldas?label=Follow&style=social)](https://github.com/ahmetguldas)
 
 [18]: https://custom-icon-badges.herokuapp.com/badge/-hermione@spew.co.uk-red?style=for-the-badge&logo=mention&logoColor=white
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ahmetguldas)
+<a href="https://www.buymeacoffee.com/ahmetguldas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
